@@ -362,7 +362,7 @@ puts "&lt;meta http-equiv='Refresh' content='0;URL=#{url}'&gt;"
 	<key>outputLocation</key>
 	<string>newWindow</string>
 	<key>scope</key>
-	<string>source.css</string>
+	<string>source.css,source.scss</string>
 	<key>semanticClass</key>
 	<string>lookup.define.css</string>
 	<key>uuid</key>
